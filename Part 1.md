@@ -103,6 +103,7 @@ We recognise the potential for discrimination (it should be noted that this is n
 Not one of the methods is so powerful as to reduce human identity.
 
 References:
+
 [4] Kate Crawford & Megan, Finn The limits of crisis data: analytical and ethical challenges of using social and mobile data to understand disasters, GeoJournal, 01 November 2014
 https://link.springer.com/article/10.1007%252Fs10708-014-9597-z#Sec7
 
