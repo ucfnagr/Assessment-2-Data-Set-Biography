@@ -55,18 +55,15 @@ Word count: 50
 ### 6. To what extent is the data 'complete'?
 
 We can see, that the set of useful fields we listed in the 4th question partially intersects with the missing information we listed in the 5th question.
-Therefore, the potential amount of important patterns we can extract from this dataset decreases. From the figure 1 [2] we can see that more than a third
+Therefore, the potential amount of important patterns we can extract from this dataset decreases. From the figure 1 [Appendix] we can see that more than a third
 entries are NaN values in 20 dataset fields, some of which we have also called useful in the 4th question. It slightly complicates the process of analysys, but
-still much data remains. From the figure 2 [3] we can see that almost 50000 dataset entries contain less than 10 NaN values. The small area under the curve
+still much data remains. From the figure 2 [Appendix] we can see that almost 50000 dataset entries contain less than 10 NaN values. The small area under the curve
 supports the statement that we have enough data to explore.
 
 Word count: 128
 
 References:
-
-[2] https://github.com/ucfnagr/Assessment-2-Data-Set-Biography/blob/main/Figure1
-
-[3] https://github.com/ucfnagr/Assessment-2-Data-Set-Biography/blob/main/Figure2
+Go to Appendix
 
 
 ---
