@@ -98,22 +98,22 @@ Word count: 90
 
 Firsty, all methods that are't exactly ethical must be excluded. The last point about computer vision isn't recommended for analysis, as well as any other method that uses the data. In article 1 [4], the author states "the choices offered to people can be In ways that closely involve them to consent" (tweeting). Logicaly to assume that, due to the Airbnb platform specifics, its hosts should share private information, which means that it's unethically.
 I consider other methods to be ethical. For the sake of proof, I will consider the six ethical issues mentioned in article 2 [5] and show that they are't related to the remaining methods:
-1. Autonomous machines are threat to free will and responsibility
+1. Autonomous machines are threat to free will and responsibility  
 We aren't going to build a autonomous machine. Problem is irrelevant.
 
-2. Bias, discrimination, exclusion
+2. Bias, discrimination, exclusion  
 We do not use data to assess any person or group of people, so these concepts are not applicable. It can be argued that we will evaluate groups formed on the basis of geoposition, but since this will be the meaning of the study, bias will make sense and will not bring disparity.
 
-3. Algorithmic profiling
+3. Algorithmic profiling  
 Not one of the four methods cannot lead to a large personal benefit with no collective benefit. Irrelevant.
  
-4. Preventing massive files while enhancing AI: seeking a new balance
+4. Preventing massive files while enhancing AI: seeking a new balance  
 We don't use a significant amount of data for any of the methods, and there is no indication that some methods will require an increase in data volume. Irrelevant.
 
-5. Quality, quantity, relevance: the challenges of datacurated for AI
+5. Quality, quantity, relevance: the challenges of datacurated for AI  
 We recognise the potential for discrimination, so take into account in conclusion.
 
-6. Human identity before the challenge of AI 
+6. Human identity before the challenge of AI   
 Not one of the methods is so powerful to reduce human identity.
 
 Word count: 300
@@ -125,3 +125,14 @@ https://link.springer.com/article/10.1007%252Fs10708-014-9597-z#Sec7
 
 [5] Ursula Garzcarek & Detlef Steuer, Approaching Ethical Guidelines for Data Scientists, Last updated January 16, 2019 
 https://arxiv.org/pdf/1901.04824.pdf
+
+## Appendix
+
+###  
+Figure 1
+
+![Image alt](https://github.com/ucfnagr/Assessment-2-Data-Set-Biography/raw/main/figure1.png)
+ 
+Figure 2
+
+![Image alt](https://github.com/ucfnagr/Assessment-2-Data-Set-Biography/raw/main/figure2.png)
