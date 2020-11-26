@@ -96,7 +96,7 @@ Word count: 90
 
 ### 9. Which of the uses presented in Q.7 and Q.8 are _ethical_?
 
-Firsty, all methods that are't exactly ethical must be excluded. The last point about computer vision is't recommended for analysis, as well as any other method that uses the data. In article 1 [4], the author states "the choices offered to people can be In ways that closely involve them to consent" by tweeting. Logicaly to assume that, due to the Airbnb platform specifics, its hosts also should share private information, which means that it's unethically.
+Firsty, all methods that are't exactly ethical must be excluded. The last point about computer vision isn't recommended for analysis, as well as any other method that uses the data. In article 1 [4], the author states "the choices offered to people can be In ways that closely involve them to consent" by tweeting. Logicaly to assume that, due to the Airbnb platform specifics, its hosts also should share private information, which means that it's unethically.
 I consider other methods to be ethical. For the sake of proof, I will consider the six ethical issues mentioned in article 2 [5] and show that they are't related to the remaining methods:
 1. Autonomous machines are threat to free will and responsibility
 We aren't going to build a autonomous machine. Problem is irrelevant.
@@ -105,13 +105,13 @@ We aren't going to build a autonomous machine. Problem is irrelevant.
 We do not use data to assess any person or group of people, so these concepts are not applicable. It can be argued that we will evaluate groups formed on the basis of geoposition, but since this will be the meaning of the study, bias will make sense and will not bring disparity.
 
 3. Algorithmic profiling
-Not one of the four methods cannot lead to a large personal benefit with no collective benefit. Problem is also irrelevant.
+Not one of the four methods cannot lead to a large personal benefit with no collective benefit. Irrelevant.
  
 4. Preventing massive files while enhancing AI: seeking a new balance
-We do not use a significant amount of data for any of the methods, and there is no indication that some methods will require an increase in data volume. The problem is irrelevant
+We do not use a significant amount of data for any of the methods, and there is no indication that some methods will require an increase in data volume. Irrelevant.
 
 5. Quality, quantity, relevance: the challenges of datacurated for AI
-We recognise the potential for discrimination, so take into account when draw the conclusion.
+We recognise the potential for discrimination, so take into account in conclusion.
 
 6. Human identity before the challenge of artificial intelligence 
 Not one of the methods is so powerful to reduce human identity.
