@@ -27,7 +27,7 @@ The data utilizes public information, which was verified, cleaned, analyzed and 
 be from 0-450 feet of the actual adress), that adds a noise to the data. The data is a snapshot of listings may be not actual. Inside Airbnb takes neighborhood names from the geographical coordinates but not from Airbnb neighborhood names.[1]
 
 Reference:
-[1] http://insideairbnb.com/about.html
+[1] Online resource http://insideairbnb.com/about.html
 
 Word count: 69
 
