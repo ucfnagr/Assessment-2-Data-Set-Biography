@@ -54,8 +54,9 @@ still much data remains. From the figure 2 [3] we can see that almost 50000 data
 supports the statement that we have enough data to explore.
 
 References:
-[2]https://github.com/ucfnagr/Assessment-2-Data-Set-Biography/blob/main/Figure1
-[3]https://github.com/ucfnagr/Assessment-2-Data-Set-Biography/blob/main/Figure2
+[2] https://github.com/ucfnagr/Assessment-2-Data-Set-Biography/blob/main/Figure1
+[3] https://github.com/ucfnagr/Assessment-2-Data-Set-Biography/blob/main/Figure2
+
 ---
 
 ### 7. What kinds of analysis would this support?
