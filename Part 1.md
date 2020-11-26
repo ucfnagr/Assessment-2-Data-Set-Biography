@@ -116,6 +116,8 @@ We recognise the potential for discrimination, so take into account in conclusio
 6. Human identity before the challenge of AI 
 Not one of the methods is so powerful to reduce human identity.
 
+Word count: 300
+
 References:
 
 [4] Kate Crawford & Megan, Finn The limits of crisis data: analytical and ethical challenges of using social and mobile data to understand disasters, GeoJournal, 01 November 2014
